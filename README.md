@@ -3,4 +3,4 @@
 This is my first package.
 
 # Installation
-$ pip install git+https://github.com/drOsnN/mypackage
+$ pip install git+https://github.com/drOsN/mypackage.git
